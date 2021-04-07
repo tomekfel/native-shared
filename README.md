@@ -1,0 +1,1 @@
+[source](https://blog.logrocket.com/how-to-use-shared-element-transition-with-react-navigation-v5/)
